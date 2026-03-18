@@ -18,9 +18,9 @@ The dataset used in this project is the *Customer Personality Analysis dataset*,
 Random Forest achieved strong predictive performance and identified key drivers of customer purchase behavior.
 
 Key insights include:
-*⁠  Customer behavior is influenced by multiple factors, not a single metric  
-*⁠  Past purchasing activity and income level are strong predictors  
-*  ⁠Website engagement alone does not guarantee conversion
+-  Customer behavior is influenced by multiple factors, not a single metric  
+-  Past purchasing activity and income level are strong predictors  
+-  ⁠Website engagement alone does not guarantee conversion
   
 ## Business Implications
 The results of this analysis provide actionable insights for marketing strategy:

@@ -1,5 +1,5 @@
 # Customer Purchase Prediction Using Machine Learning  
-### A Data-Driven Marketing Analytics Project
+#### A Data-Driven Marketing Analytics Project
 
 ## Overview
 This project applies machine learning techniques to predict customer responses to marketing campaigns using demographic and behavioral data. The objective is to support data-driven decision-making by identifying customers with a higher likelihood of purchase.

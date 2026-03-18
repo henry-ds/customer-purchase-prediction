@@ -25,19 +25,19 @@ Key insights include:
 ## Business Implications
 The results of this analysis provide actionable insights for marketing strategy:
 
-*⁠  ⁠Target customers with a higher probability of purchase  
-*  ⁠Improve campaign efficiency and return on investment (ROI)  
-*  ⁠Reduce marketing costs by focusing on high-value segments  
-*  ⁠Support personalized marketing strategies  
+-  ⁠Target customers with a higher probability of purchase  
+-  ⁠Improve campaign efficiency and return on investment (ROI)  
+-  ⁠Reduce marketing costs by focusing on high-value segments  
+-  ⁠Support personalized marketing strategies  
 
 By leveraging predictive analytics, organizations can move from mass marketing to **data-driven customer targeting**.
 
 ## Technologies Used
-*⁠  ⁠Python  
-* ⁠ Pandas & NumPy
-*  ⁠Scikit-learn  
-*  Matplotlib & Seaborn  
-*  ⁠Jupyter Notebook
+-  ⁠Python  
+- ⁠ Pandas & NumPy
+-  ⁠Scikit-learn  
+-  Matplotlib & Seaborn  
+-  ⁠Jupyter Notebook
   
 ## Conclusion
 This project highlights the application of machine learning in marketing analytics. The findings show that customer purchase behavior is driven by a combination of demographic and behavioral factors, emphasizing the need for a holistic, data-driven approach to marketing decision-making.

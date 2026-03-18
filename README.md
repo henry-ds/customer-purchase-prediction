@@ -11,7 +11,7 @@ The dataset used in this project is the *Customer Personality Analysis dataset*,
 ## Methods
 *  ⁠Data Cleaning & Preprocessing
 *  ⁠Exploratory Data Analysis
-*⁠  ⁠Logistic Regression
+* ⁠ ⁠Logistic Regression
 *  ⁠Random Forest
 
 ## Results

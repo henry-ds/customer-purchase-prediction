@@ -18,8 +18,8 @@ The dataset used in this project is the *Customer Personality Analysis dataset*,
 Random Forest achieved strong predictive performance and identified key drivers of customer purchase behavior.
 
 Key insights include:
-*⁠  ⁠Customer behavior is influenced by multiple factors, not a single metric  
-*⁠  ⁠Past purchasing activity and income level are strong predictors  
+*⁠  Customer behavior is influenced by multiple factors, not a single metric  
+*⁠  Past purchasing activity and income level are strong predictors  
 *  ⁠Website engagement alone does not guarantee conversion
   
 ## Business Implications
@@ -34,9 +34,9 @@ By leveraging predictive analytics, organizations can move from mass marketing t
 
 ## Technologies Used
 *⁠  ⁠Python  
-*  ⁠Pandas & NumPy  
+* ⁠ Pandas & NumPy
 *  ⁠Scikit-learn  
-*  ⁠Matplotlib & Seaborn  
+*  Matplotlib & Seaborn  
 *  ⁠Jupyter Notebook
   
 ## Conclusion

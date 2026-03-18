@@ -12,7 +12,7 @@ The dataset used in this project is the *Customer Personality Analysis dataset*,
 *  Data Cleaning & Preprocessing
 *  Exploratory Data Analysis
 * ⁠ Logistic Regression
-*  Random Forest
+*  Random Forest Classifier
 
 ## Results
 Random Forest achieved strong predictive performance and identified key drivers of customer purchase behavior.

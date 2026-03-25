@@ -44,5 +44,5 @@ This project highlights the application of machine learning in marketing analyti
 
 
 ## Author
-**Anumba Emeka Henry**  
+**Emeka Henry Anumba**  
 Data Analyst | Data Science & Customer Analytics
